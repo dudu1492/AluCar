@@ -1,0 +1,51 @@
+﻿@model Veiculo
+<form asp-action="Alterar" method="post">
+    <fieldset>
+        <legend>Alterar Veiculo</legend>
+        <input type="hidden" asp-for="VeiculoId" />
+        <div class="form-group">
+            <label>Id:</label>
+            <input type="text" asp-for="VeiculoId"
+                   readonly="" class="form-control" />
+        </div>
+        <div class="form-group" id="Nome">
+            <label>Nome:</label>
+            <input type="text" asp-for="Nome"
+                   class="form-control" />
+        </div>
+        <div class="form-group" id="Placa">
+            <label>Placa:</label>
+            <input type="text" asp-for="Placa"
+                   class="form-control" />
+        </div>
+        <div class="form-group" id="Ano">
+            <label>Ano:</label>
+            <input type="text" asp-for="Ano"
+                   class="form-control" />
+        </div>
+        <div id="Marca" class="form-group">
+            <label>Marca:</label>
+            <select asp-items="@ViewBag.Marcas"
+                    class="form-control" name="drpMarcas">
+            </select>
+        </div>
+        <div class="form-group" id="Potencia">
+            <label asp-for="Potencia"></label>
+            <input type="text" asp-for="Potencia"
+                   class="form-control" />
+            <span asp-validation-for="Potencia"
+                  class="text-primary"></span>
+        </div>
+        <div class="form-group" id="Valor">
+            <label>Valor:</label>
+            <input type="text" asp-for="Valor"
+                   class="form-control" />
+        </div>
+        <div class="form-group" id="Imagem">
+            <label>Imagem:</label><br />
+            <input type="file" name="fupImagem" />
+        </div>
+        <input type="submit" class="btn btn-success"
+               value="Salvar" />
+    </fieldset>
+</form>

@@ -1,0 +1,36 @@
+﻿@model List<Veiculo>
+
+<div id="Marcas">
+    <ul class="pagination pagination-lg justify-content-center" style="margin:20px 0">
+        @foreach (Marca item in ViewBag.Marcas)
+        {
+            <li class="page-item">
+                <a class="page-link" asp-action="Index" asp-controller="Home" asp-route-id="@item.MarcaId">
+                    @item.Nome
+                </a>
+            </li>
+        }
+    </ul>
+</div>
+
+<div class="row" id="Veiculos">
+    @foreach (Veiculo item in Model)
+    {
+    <div class="col-md-3" style="text-align:center; margin-bottom:15px">
+        <a asp-action="Detalhes" asp-controller="Home" asp-route-id="@item.VeiculoId">
+            <img src="~/alucarimagens/@item.Imagem" alt="@item.Ano"
+                 style="width:200px;height:180px" class="img-thumbnail" /><br />
+        </a>
+        <a asp-action="Detalhes" asp-controller="Home" asp-route-id="@item.VeiculoId">
+            @item.Nome
+        </a><br />
+        <b>Preço: </b> @item.Valor.Value.ToString("C2")<br />
+        <a asp-action="AdicionarAoCarrinho"
+           asp-controller="Home"
+           asp-route-id="@item.VeiculoId"
+           class="btn btn-success">
+            Alugar
+        </a>
+    </div>
+    }
+</div>

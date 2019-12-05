@@ -1,0 +1,27 @@
+C:\ProfessorDiogo\EcommerceEcoville\Domain\bin\Debug\netcoreapp2.1\Domain.deps.json
+C:\ProfessorDiogo\EcommerceEcoville\Domain\bin\Debug\netcoreapp2.1\Domain.dll
+C:\ProfessorDiogo\EcommerceEcoville\Domain\bin\Debug\netcoreapp2.1\Domain.pdb
+C:\ProfessorDiogo\EcommerceEcoville\Domain\obj\Debug\netcoreapp2.1\Domain.csproj.CoreCompileInputs.cache
+C:\ProfessorDiogo\EcommerceEcoville\Domain\obj\Debug\netcoreapp2.1\Domain.AssemblyInfoInputs.cache
+C:\ProfessorDiogo\EcommerceEcoville\Domain\obj\Debug\netcoreapp2.1\Domain.AssemblyInfo.cs
+C:\ProfessorDiogo\EcommerceEcoville\Domain\obj\Debug\netcoreapp2.1\Domain.dll
+C:\ProfessorDiogo\EcommerceEcoville\Domain\obj\Debug\netcoreapp2.1\Domain.pdb
+C:\ProfessorDiogo\EcommerceEcoville\Domain\obj\Debug\netcoreapp2.1\Domain.csprojAssemblyReference.cache
+C:\ProfessorDiogo\EcommerceEcoville - Copia\ecommerceecoville\Domain\bin\Debug\netcoreapp2.1\Domain.deps.json
+C:\ProfessorDiogo\EcommerceEcoville - Copia\ecommerceecoville\Domain\bin\Debug\netcoreapp2.1\Domain.dll
+C:\ProfessorDiogo\EcommerceEcoville - Copia\ecommerceecoville\Domain\bin\Debug\netcoreapp2.1\Domain.pdb
+C:\ProfessorDiogo\EcommerceEcoville - Copia\ecommerceecoville\Domain\obj\Debug\netcoreapp2.1\Domain.csprojAssemblyReference.cache
+C:\ProfessorDiogo\EcommerceEcoville - Copia\ecommerceecoville\Domain\obj\Debug\netcoreapp2.1\Domain.csproj.CoreCompileInputs.cache
+C:\ProfessorDiogo\EcommerceEcoville - Copia\ecommerceecoville\Domain\obj\Debug\netcoreapp2.1\Domain.AssemblyInfoInputs.cache
+C:\ProfessorDiogo\EcommerceEcoville - Copia\ecommerceecoville\Domain\obj\Debug\netcoreapp2.1\Domain.AssemblyInfo.cs
+C:\ProfessorDiogo\EcommerceEcoville - Copia\ecommerceecoville\Domain\obj\Debug\netcoreapp2.1\Domain.dll
+C:\ProfessorDiogo\EcommerceEcoville - Copia\ecommerceecoville\Domain\obj\Debug\netcoreapp2.1\Domain.pdb
+C:\Users\Eduardo\source\repos\AluCar\Domain\bin\Debug\netcoreapp2.1\Domain.deps.json
+C:\Users\Eduardo\source\repos\AluCar\Domain\bin\Debug\netcoreapp2.1\Domain.dll
+C:\Users\Eduardo\source\repos\AluCar\Domain\bin\Debug\netcoreapp2.1\Domain.pdb
+C:\Users\Eduardo\source\repos\AluCar\Domain\obj\Debug\netcoreapp2.1\Domain.csprojAssemblyReference.cache
+C:\Users\Eduardo\source\repos\AluCar\Domain\obj\Debug\netcoreapp2.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\AluCar\Domain\obj\Debug\netcoreapp2.1\Domain.AssemblyInfoInputs.cache
+C:\Users\Eduardo\source\repos\AluCar\Domain\obj\Debug\netcoreapp2.1\Domain.AssemblyInfo.cs
+C:\Users\Eduardo\source\repos\AluCar\Domain\obj\Debug\netcoreapp2.1\Domain.dll
+C:\Users\Eduardo\source\repos\AluCar\Domain\obj\Debug\netcoreapp2.1\Domain.pdb

@@ -1,0 +1,25 @@
+﻿@model Veiculo
+
+<h2>@Model.Nome</h2>
+
+<table>
+    <tr>
+        <td>
+            <img src="~/alucarimagens/@Model.Imagem" class="rounded"
+                 style="width:400px;height:300px" alt="@Model.Placa" />
+        </td>
+        <td style="vertical-align:top;padding-left:10px">
+            <b>Placa: </b>
+            <p>@Model.Placa</p>
+            <b>Preço: </b>
+            <p>@Model.Valor.Value.ToString("C2")</p>
+            <br />
+            <a asp-action="AdicionarAoCarrinho"
+                asp-controller="Home"
+                asp-route-id="@Model.VeiculoId"
+                class="btn btn-success">
+                Alugar
+            </a>
+        </td>
+    </tr>
+</table>

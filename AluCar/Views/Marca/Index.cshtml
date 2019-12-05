@@ -1,0 +1,38 @@
+﻿@model List<Marca>
+@{
+    DateTime dataHora = ViewBag.DataHora;
+}
+
+<h2>Gerenciamento de Marca</h2>
+<a class="btn btn-info" asp-action="Cadastrar">Cadastrar Marca</a>
+
+<table style="margin-bottom:15px;margin-top:15px"
+       class="table table-hover table-striped">
+    <thead>
+        <tr class="table-active">
+            <th>Nome</th>
+            <th>Detalhes</th>
+            <th></th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Marca item in Model)
+        {
+            <tr>
+                <td>@item.Nome</td>
+                <td>@item.Detalhes</td>
+                <
+                <td>
+                    <a class="btn btn-primary" asp-action="Remover" asp-route-id="@item.MarcaId">Remover</a>
+                </td>
+                <td>
+                    <a class="btn btn-danger" asp-action="Alterar" asp-route-id="@item.MarcaId">Alterar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<p>
+    <b>Dados atualizados em: </b> @dataHora
+</p>

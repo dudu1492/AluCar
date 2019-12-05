@@ -1,0 +1,21 @@
+﻿  -- CONFIGURAÇÃO DE LOGIN NA APLICAÇÃO (IDENTITY) --
+
+1 - Criar a classe de modelo para controlar o usuário
+ logado e herdar IdentityUser
+
+2 - Instalar a biblioteca do Identity
+  - Microsoft.AspNetCore.Identity.EntityFrameworkCore 2.1.6
+
+3 - Fazer a herança no Context do IdentityDbContext
+
+4 - Configurar o Identity no Startup.cs
+
+5 - Deletar banco e migrações e gerar o banco novamente
+
+6 - Implementar o cadastro do usuário pela biblioteca
+
+7 - Criar a área de login
+
+8 - Criar a área de logout
+
+9 - Alterar barra de navegação para mostrar o usuário logado

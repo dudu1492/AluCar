@@ -1,0 +1,49 @@
+﻿@model List<Veiculo>
+@{
+    DateTime dataHora = ViewBag.DataHora;
+}
+
+<h2>Gerenciamento de Veiculos</h2>
+<a class="btn btn-info" asp-action="Cadastrar">Cadastrar Veiculo</a>
+
+<table style="margin-bottom:15px;margin-top:15px"
+       class="table table-hover table-striped">
+    <thead>
+        <tr class="table-active">
+            <th>Nome</th>
+            <th>Placa</th>
+            <th>Ano</th>
+            <th>Potência</th>
+            <th>Imagem</th>
+            <th>Criado em</th>
+            <th></th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Veiculo item in Model)
+        {
+            <tr>
+                <td>@item.Nome</td>
+                <td>@item.Placa</td>
+                <td>@item.Ano</td>
+                <td>@item.Potencia</td>
+                <td>
+                    <img src="~/alucarimagens/@item.Imagem" 
+                         alt="@item.Ano"
+                         style="width:150px;height:120px"/>
+                </td>
+                <td>@item.CriadoEm</td>
+                <td>
+                    <a class="btn btn-primary" asp-action="Remover" asp-route-id="@item.VeiculoId">Remover</a>
+                </td>
+                <td>
+                    <a class="btn btn-danger" asp-action="Alterar" asp-route-id="@item.VeiculoId">Alterar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<p>
+    <b>Dados atualizados em: </b> @dataHora
+</p>

@@ -1,0 +1,84 @@
+C:\ProfessorDiogo\EcommerceEcoville\EcommerceEcoville\bin\Debug\netcoreapp2.1\EcommerceEcoville.deps.json
+C:\ProfessorDiogo\EcommerceEcoville\EcommerceEcoville\bin\Debug\netcoreapp2.1\EcommerceEcoville.runtimeconfig.json
+C:\ProfessorDiogo\EcommerceEcoville\EcommerceEcoville\bin\Debug\netcoreapp2.1\EcommerceEcoville.runtimeconfig.dev.json
+C:\ProfessorDiogo\EcommerceEcoville\EcommerceEcoville\bin\Debug\netcoreapp2.1\EcommerceEcoville.dll
+C:\ProfessorDiogo\EcommerceEcoville\EcommerceEcoville\bin\Debug\netcoreapp2.1\EcommerceEcoville.pdb
+C:\ProfessorDiogo\EcommerceEcoville\EcommerceEcoville\bin\Debug\netcoreapp2.1\EcommerceEcoville.Views.dll
+C:\ProfessorDiogo\EcommerceEcoville\EcommerceEcoville\bin\Debug\netcoreapp2.1\EcommerceEcoville.Views.pdb
+C:\ProfessorDiogo\EcommerceEcoville\EcommerceEcoville\obj\Debug\netcoreapp2.1\EcommerceEcoville.csproj.CoreCompileInputs.cache
+C:\ProfessorDiogo\EcommerceEcoville\EcommerceEcoville\obj\Debug\netcoreapp2.1\EcommerceEcoville.RazorAssemblyInfo.cache
+C:\ProfessorDiogo\EcommerceEcoville\EcommerceEcoville\obj\Debug\netcoreapp2.1\EcommerceEcoville.RazorAssemblyInfo.cs
+C:\ProfessorDiogo\EcommerceEcoville\EcommerceEcoville\obj\Debug\netcoreapp2.1\EcommerceEcoville.AssemblyInfoInputs.cache
+C:\ProfessorDiogo\EcommerceEcoville\EcommerceEcoville\obj\Debug\netcoreapp2.1\EcommerceEcoville.AssemblyInfo.cs
+C:\ProfessorDiogo\EcommerceEcoville\EcommerceEcoville\obj\Debug\netcoreapp2.1\EcommerceEcoville.TagHelpers.input.cache
+C:\ProfessorDiogo\EcommerceEcoville\EcommerceEcoville\obj\Debug\netcoreapp2.1\EcommerceEcoville.TagHelpers.output.cache
+C:\ProfessorDiogo\EcommerceEcoville\EcommerceEcoville\obj\Debug\netcoreapp2.1\EcommerceEcoville.RazorCoreGenerate.cache
+C:\ProfessorDiogo\EcommerceEcoville\EcommerceEcoville\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\ProfessorDiogo\EcommerceEcoville\EcommerceEcoville\obj\Debug\netcoreapp2.1\EcommerceEcoville.RazorTargetAssemblyInfo.cache
+C:\ProfessorDiogo\EcommerceEcoville\EcommerceEcoville\obj\Debug\netcoreapp2.1\EcommerceEcoville.RazorTargetAssemblyInfo.cs
+C:\ProfessorDiogo\EcommerceEcoville\EcommerceEcoville\obj\Debug\netcoreapp2.1\EcommerceEcoville.Views.pdb
+C:\ProfessorDiogo\EcommerceEcoville\EcommerceEcoville\obj\Debug\netcoreapp2.1\EcommerceEcoville.dll
+C:\ProfessorDiogo\EcommerceEcoville\EcommerceEcoville\obj\Debug\netcoreapp2.1\EcommerceEcoville.pdb
+C:\ProfessorDiogo\EcommerceEcoville\EcommerceEcoville\obj\Debug\netcoreapp2.1\EcommerceEcoville.csproj.CopyComplete
+C:\ProfessorDiogo\EcommerceEcoville\EcommerceEcoville\obj\Debug\netcoreapp2.1\EcommerceEcoville.csprojAssemblyReference.cache
+C:\ProfessorDiogo\EcommerceEcoville\EcommerceEcoville\obj\Debug\netcoreapp2.1\Razor\Views\Produto\Cadastrar.g.cshtml.cs
+C:\ProfessorDiogo\EcommerceEcoville\EcommerceEcoville\obj\Debug\netcoreapp2.1\Razor\Views\Produto\Index.g.cshtml.cs
+C:\ProfessorDiogo\EcommerceEcoville\EcommerceEcoville\obj\Debug\netcoreapp2.1\Razor\Views\Produto\Alterar.g.cshtml.cs
+C:\ProfessorDiogo\EcommerceEcoville\EcommerceEcoville\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\ProfessorDiogo\EcommerceEcoville\EcommerceEcoville\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\ProfessorDiogo\EcommerceEcoville\EcommerceEcoville\bin\Debug\netcoreapp2.1\Domain.dll
+C:\ProfessorDiogo\EcommerceEcoville\EcommerceEcoville\bin\Debug\netcoreapp2.1\Repository.dll
+C:\ProfessorDiogo\EcommerceEcoville\EcommerceEcoville\bin\Debug\netcoreapp2.1\Domain.pdb
+C:\ProfessorDiogo\EcommerceEcoville\EcommerceEcoville\bin\Debug\netcoreapp2.1\Repository.pdb
+C:\ProfessorDiogo\EcommerceEcoville\EcommerceEcoville\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Create.g.cshtml.cs
+C:\ProfessorDiogo\EcommerceEcoville\EcommerceEcoville\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Delete.g.cshtml.cs
+C:\ProfessorDiogo\EcommerceEcoville\EcommerceEcoville\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Details.g.cshtml.cs
+C:\ProfessorDiogo\EcommerceEcoville\EcommerceEcoville\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Edit.g.cshtml.cs
+C:\ProfessorDiogo\EcommerceEcoville\EcommerceEcoville\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Index.g.cshtml.cs
+C:\ProfessorDiogo\EcommerceEcoville\EcommerceEcoville\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\Cadastrar.g.cshtml.cs
+C:\ProfessorDiogo\EcommerceEcoville\EcommerceEcoville\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\Index.g.cshtml.cs
+C:\ProfessorDiogo\EcommerceEcoville\EcommerceEcoville\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\ProfessorDiogo\EcommerceEcoville\EcommerceEcoville\obj\Debug\netcoreapp2.1\Razor\Views\Home\Detalhes.g.cshtml.cs
+C:\ProfessorDiogo\EcommerceEcoville - Copia\ecommerceecoville\EcommerceEcoville\obj\Debug\netcoreapp2.1\EcommerceEcoville.csprojAssemblyReference.cache
+C:\ProfessorDiogo\EcommerceEcoville - Copia\ecommerceecoville\EcommerceEcoville\obj\Debug\netcoreapp2.1\EcommerceEcoville.csproj.CoreCompileInputs.cache
+C:\ProfessorDiogo\EcommerceEcoville - Copia\ecommerceecoville\EcommerceEcoville\obj\Debug\netcoreapp2.1\EcommerceEcoville.RazorAssemblyInfo.cache
+C:\ProfessorDiogo\EcommerceEcoville - Copia\ecommerceecoville\EcommerceEcoville\obj\Debug\netcoreapp2.1\EcommerceEcoville.RazorAssemblyInfo.cs
+C:\ProfessorDiogo\EcommerceEcoville - Copia\ecommerceecoville\EcommerceEcoville\obj\Debug\netcoreapp2.1\EcommerceEcoville.AssemblyInfoInputs.cache
+C:\ProfessorDiogo\EcommerceEcoville - Copia\ecommerceecoville\EcommerceEcoville\obj\Debug\netcoreapp2.1\EcommerceEcoville.AssemblyInfo.cs
+C:\ProfessorDiogo\EcommerceEcoville - Copia\ecommerceecoville\EcommerceEcoville\obj\Debug\netcoreapp2.1\EcommerceEcoville.TagHelpers.input.cache
+C:\ProfessorDiogo\EcommerceEcoville - Copia\ecommerceecoville\EcommerceEcoville\obj\Debug\netcoreapp2.1\EcommerceEcoville.TagHelpers.output.cache
+C:\ProfessorDiogo\EcommerceEcoville - Copia\ecommerceecoville\EcommerceEcoville\obj\Debug\netcoreapp2.1\EcommerceEcoville.RazorCoreGenerate.cache
+C:\ProfessorDiogo\EcommerceEcoville - Copia\ecommerceecoville\EcommerceEcoville\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Create.g.cshtml.cs
+C:\ProfessorDiogo\EcommerceEcoville - Copia\ecommerceecoville\EcommerceEcoville\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Delete.g.cshtml.cs
+C:\ProfessorDiogo\EcommerceEcoville - Copia\ecommerceecoville\EcommerceEcoville\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Details.g.cshtml.cs
+C:\ProfessorDiogo\EcommerceEcoville - Copia\ecommerceecoville\EcommerceEcoville\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Edit.g.cshtml.cs
+C:\ProfessorDiogo\EcommerceEcoville - Copia\ecommerceecoville\EcommerceEcoville\obj\Debug\netcoreapp2.1\Razor\Views\Categoria\Index.g.cshtml.cs
+C:\ProfessorDiogo\EcommerceEcoville - Copia\ecommerceecoville\EcommerceEcoville\obj\Debug\netcoreapp2.1\Razor\Views\Home\Detalhes.g.cshtml.cs
+C:\ProfessorDiogo\EcommerceEcoville - Copia\ecommerceecoville\EcommerceEcoville\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\ProfessorDiogo\EcommerceEcoville - Copia\ecommerceecoville\EcommerceEcoville\obj\Debug\netcoreapp2.1\Razor\Views\Produto\Alterar.g.cshtml.cs
+C:\ProfessorDiogo\EcommerceEcoville - Copia\ecommerceecoville\EcommerceEcoville\obj\Debug\netcoreapp2.1\Razor\Views\Produto\Cadastrar.g.cshtml.cs
+C:\ProfessorDiogo\EcommerceEcoville - Copia\ecommerceecoville\EcommerceEcoville\obj\Debug\netcoreapp2.1\Razor\Views\Produto\Index.g.cshtml.cs
+C:\ProfessorDiogo\EcommerceEcoville - Copia\ecommerceecoville\EcommerceEcoville\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\ProfessorDiogo\EcommerceEcoville - Copia\ecommerceecoville\EcommerceEcoville\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\Cadastrar.g.cshtml.cs
+C:\ProfessorDiogo\EcommerceEcoville - Copia\ecommerceecoville\EcommerceEcoville\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\Index.g.cshtml.cs
+C:\ProfessorDiogo\EcommerceEcoville - Copia\ecommerceecoville\EcommerceEcoville\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\ProfessorDiogo\EcommerceEcoville - Copia\ecommerceecoville\EcommerceEcoville\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\ProfessorDiogo\EcommerceEcoville - Copia\ecommerceecoville\EcommerceEcoville\obj\Debug\netcoreapp2.1\EcommerceEcoville.RazorTargetAssemblyInfo.cache
+C:\ProfessorDiogo\EcommerceEcoville - Copia\ecommerceecoville\EcommerceEcoville\obj\Debug\netcoreapp2.1\EcommerceEcoville.RazorTargetAssemblyInfo.cs
+C:\ProfessorDiogo\EcommerceEcoville - Copia\ecommerceecoville\EcommerceEcoville\obj\Debug\netcoreapp2.1\EcommerceEcoville.dll
+C:\ProfessorDiogo\EcommerceEcoville - Copia\ecommerceecoville\EcommerceEcoville\obj\Debug\netcoreapp2.1\EcommerceEcoville.pdb
+C:\ProfessorDiogo\EcommerceEcoville - Copia\ecommerceecoville\EcommerceEcoville\bin\Debug\netcoreapp2.1\EcommerceEcoville.deps.json
+C:\ProfessorDiogo\EcommerceEcoville - Copia\ecommerceecoville\EcommerceEcoville\bin\Debug\netcoreapp2.1\EcommerceEcoville.runtimeconfig.json
+C:\ProfessorDiogo\EcommerceEcoville - Copia\ecommerceecoville\EcommerceEcoville\bin\Debug\netcoreapp2.1\EcommerceEcoville.runtimeconfig.dev.json
+C:\ProfessorDiogo\EcommerceEcoville - Copia\ecommerceecoville\EcommerceEcoville\bin\Debug\netcoreapp2.1\EcommerceEcoville.dll
+C:\ProfessorDiogo\EcommerceEcoville - Copia\ecommerceecoville\EcommerceEcoville\bin\Debug\netcoreapp2.1\EcommerceEcoville.pdb
+C:\ProfessorDiogo\EcommerceEcoville - Copia\ecommerceecoville\EcommerceEcoville\bin\Debug\netcoreapp2.1\EcommerceEcoville.Views.dll
+C:\ProfessorDiogo\EcommerceEcoville - Copia\ecommerceecoville\EcommerceEcoville\bin\Debug\netcoreapp2.1\EcommerceEcoville.Views.pdb
+C:\ProfessorDiogo\EcommerceEcoville - Copia\ecommerceecoville\EcommerceEcoville\bin\Debug\netcoreapp2.1\Domain.dll
+C:\ProfessorDiogo\EcommerceEcoville - Copia\ecommerceecoville\EcommerceEcoville\bin\Debug\netcoreapp2.1\Repository.dll
+C:\ProfessorDiogo\EcommerceEcoville - Copia\ecommerceecoville\EcommerceEcoville\bin\Debug\netcoreapp2.1\Domain.pdb
+C:\ProfessorDiogo\EcommerceEcoville - Copia\ecommerceecoville\EcommerceEcoville\bin\Debug\netcoreapp2.1\Repository.pdb
+C:\ProfessorDiogo\EcommerceEcoville - Copia\ecommerceecoville\EcommerceEcoville\obj\Debug\netcoreapp2.1\EcommerceEcoville.Views.pdb
+C:\ProfessorDiogo\EcommerceEcoville - Copia\ecommerceecoville\EcommerceEcoville\obj\Debug\netcoreapp2.1\EcommerceEcoville.csproj.CopyComplete
+C:\ProfessorDiogo\EcommerceEcoville - Copia\ecommerceecoville\EcommerceEcoville\obj\Debug\netcoreapp2.1\Razor\Views\Home\CarrinhoCompras.g.cshtml.cs
+C:\ProfessorDiogo\EcommerceEcoville - Copia\ecommerceecoville\EcommerceEcoville\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\Login.g.cshtml.cs
